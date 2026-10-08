@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/anndemchuk/DocToText/main/assets/icon.png" width="120" alt="Orange cat eating a paper" />
 
-# Hi, I'm Anna 👋
+# Hi, I'm Anna 
 
-**Student · builder · AI enthusiast** 🐱
+**Student · Builder · AI enthusiast** 🐱
 
 </div>
 
