@@ -4,18 +4,16 @@
 
 # Hi, I'm Anna 👋
 
-**Student · builder · professional paper-shredding-cat enthusiast** 🐱
+**Student · builder · AI enthusiast** 🐱
 
 </div>
 
 ---
 
-## 🧡 About me
+## About me
 
 - 🎓 I'm a student who learns best by **building real things**
-- 🔒 I like apps that run **locally and privately** — no cloud, no API keys, no surprises
 - 🛠️ I'm currently exploring desktop apps, databases, and on-device AI
-- 😸 Fun fact: my first app's mascot is an orange cat that eats paper
 
 ## 🚀 Featured project
 
@@ -50,10 +48,8 @@ Drag a file in, get clean text out. Big files are processed in batches, and imag
 ## 📫 Say hi
 
 - GitHub: [@anndemchuk](https://github.com/anndemchuk)
-<!-- Add your own, then delete this line:
-- Email: you@example.com
-- LinkedIn: https://www.linkedin.com/in/your-handle
--->
+- Email: da.demchukanna@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anna-dem/
 
 <div align="center">
 
